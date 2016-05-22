@@ -1,0 +1,12 @@
+Package: PBR-Material-Database
+Item: DB_Iron
+
+Values Hex:
+	Base_Color: #000000
+	Specular: #8C8C8C
+	Gloss: #C8C8C8
+
+Values RGB:
+	Base_Color: RGB(0,0,0)
+	Specular: RGB(140,140,140)
+	Gloss: RGB(200,200,200)
