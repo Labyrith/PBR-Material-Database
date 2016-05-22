@@ -2,8 +2,10 @@
 This collection of base materials contains the colour values for the different colours that can be used to create PBR rendered materials.
 
 Each sub-folder (material folder) is structured like so:
-  1x1px Substance Designer material preset node (sbs)
-  Text document containing the RGB and Hex values for each colour (texture)
+
+  1) Substance Designer material preset node (sbs)
+  
+  2) Text document containing the RGB and Hex values for each colour (texture)
 
 Some presets may need tweaking under different lighting conditions as these were designed around still ambient lighting conditions to get the maximum compatibility.
 
